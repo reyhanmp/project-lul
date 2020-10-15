@@ -155,5 +155,7 @@ int main(){
         cout << name <<  " cuma dapet : " << score << endl;
         cout << name << " cupu ah";
     }
+    cout <<"empe"<< endl;
+
     return 0;
 }
